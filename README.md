@@ -1,16 +1,26 @@
-## Hi there 👋
+### `root@X:~# whoami`
 
-<!--
-**avoidboss/avoidboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"If your Aternos server is on default ports without a packet limiter, it's already mine."**
 
-Here are some ideas to get you started:
+Independent Minecraft protocol researcher & server stress-tester. Specializing in automated discovery of unwhitelisted nodes, cracked session hijacking, and Netty crash payloads (`1.16.5` – `1.21.x`).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Active Toolset & Research
+
+- **`Aternos-Scanner-v4`** — High-speed asynchronous masscan wrapper targeting dynamic Aternos & Minehut port ranges.
+
+- **`UUID-Spoofer-Bungee`** — Bypassing improperly firewalled backend Spigot/Paper servers and legacy `AuthMe` instances.
+
+- **`Netty-Crasher`** — Custom client-side packet injector (`WindowClickPacket` / `BookEdit` overflow) causing instant `StackOverflowError` on unpatched servers.
+
+
+---
+
+### 📊 Live Telemetry (Last 30 Days)
+
+```text
+[+] Scanned Nodes (Aternos/Free):  14,820
+[+] Vulnerable / No Whitelist:     3,412
+[+] Admin Accounts Hijacked (OP):  689
+[+] Worlds Corrupted / Crashed:    689

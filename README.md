@@ -1,32 +1,69 @@
 <div align="center">
 
-  <!-- MATRIX SYSTEM INITIALIZATION -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:001a00,100:00FF41&text=WAKE%20UP,%20ROOT@AVOIDBOSS...&fontColor=00FF41&fontSize=55&animation=blink&fontAlignY=45&desc=%5B%20THE%20MATRIX%20HAS%20YOU%20%7C%20FOLLOW%20THE%20WHITE%20RABBIT%20%5D&descColor=008F11&descSize=16&descAlignY=75&stroke=00FF41&strokeWidth=1" width="100%" />
+  <!-- Animated Terminal Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=root%40X%3A~%23+whoami;Independent+Minecraft+Protocol+Researcher;Automated+Discovery+%26+Netty+Exploitation;Initializing+masscan+on+0.0.0.0%2F0..." alt="Terminal Typing" />
+  </a>
 
   <br/>
 
-  <!-- TERMINAL STREAM -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=1800&pause=600&color=00FF41&background=00000000&center=true&vCenter=true&width=850&lines=%3E+INITIATING+NEURAL+HANDSHAKE+%5B0x00FF41%5D...;%3E+MINECRAFT+PROTOCOL+RESEARCHER+%2F%2F+ZION_MAINFRAME;%3E+AUTOMATED+DISCOVERY+%26+NETTY+EXPLOITATION;%3E+MASSCAN+0.0.0.0%2F0+%5BACTIVE+STREAM%5D;%3E+KNOCK,+KNOCK,+NEO." alt="Matrix Terminal" />
-  </a>
-
-  <br/><br/>
-
-  <!-- SYSTEM STATUS BADGES -->
-  <img src="https://img.shields.io/badge/SYS_STATE-ONLINE-00FF41?style=for-the-badge&logo=gnu-bash&logoColor=00FF41&labelColor=000000" />
-  <img src="https://img.shields.io/badge/DAEMON-NETTY_%2F_SPIGOT-00FF41?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=000000" />
-  <img src="https://img.shields.io/badge/PROTO_VER-1.16.5--26.x-00FF41?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=000000" />
-  <img src="https://img.shields.io/badge/ACCESS-UID_0_(ROOT)-FF003C?style=for-the-badge&logo=linux&logoColor=FF003C&labelColor=000000" />
+  <!-- Status & Tech Badges -->
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TARGET-NETTY_%2F_SPIGOT-00FF41?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PACKETS-UNLIMITED-00FF41?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PROTOCOL-1.16.5--26.x-00FF41?style=for-the-badge&logo=databricks&logoColor=00FF41&labelColor=0D1117" />
 
 </div>
 
 <br/>
 
+### `root@X:~# cat /etc/motd`
+
 ```ansi
-[2;30m[2;32m╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║  root@zion-mainframe:~# ./deploy_arsenal.sh --stealth --threads=64 --matrix-mode         ║
-╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  [0x01] Loading kernel modules ....................... [ [1;32mOK[0m[2;32m ]                            ║
-║  [0x02] Hooking Netty pipeline ....................... [ [1;32mOK[0m[2;32m ]                            ║
-║  [0x03] Bypassing Sentinel / TCPShield ............... [ [1;31mBYPASSED[0m[2;32m ]                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝[0m
+[1;32m"If your Aternos server is on default ports without a packet limiter, it's already mine."[0m
+
+```
+
+> **Independent Minecraft protocol researcher & server stress-tester.**
+> Specializing in automated discovery of unwhitelisted nodes, cracked session hijacking, and Netty crash payloads (`1.16.5` — `26.x`).
+
+---
+
+### `root@X:~# ls -la /opt/exploits`
+
+| Permissions | Size | Module | Description |
+| --- | --- | --- | --- |
+| `-rwxr-xr-x` | `42.1K` | **`Aternos-Scanner-v4`** | High-speed asynchronous `masscan` wrapper targeting dynamic Aternos & Minehut port ranges. |
+| `-rwxr-xr-x` | `18.4K` | **`UUID-Spoofer-Bungee`** | Bypassing improperly firewalled backend Spigot/Paper servers and legacy `AuthMe` instances. |
+| `-rwxr-xr-x` | `64.0K` | **`Netty-Crasher`** | Custom client-side packet injector (`WindowClick` / `BookEdit` overflow) triggering instant `StackOverflowError`. |
+
+---
+
+### `root@X:~# tail -n 10 /var/log/telemetry.log`
+
+```diff
+@@                   LIVE TELEMETRY STREAM [PID: 1337]                   @@
+===========================================================================
++ [2026-11-01 02:04:11] [OK] Scanned Nodes (Aternos/Free) .... 14,820
++ [2026-11-01 02:04:12] [OK] Vulnerable / No Whitelist ....... 3,412
++ [2026-11-01 02:04:14] [OK] Admin Accounts Hijacked (OP) .... 689
+! [2026-11-01 02:04:15] [!!] Worlds Corrupted / Crashed ...... 689
+- [2026-11-01 02:04:18] [XX] Honeypots / TCPShield Bypassed .. 142
+===========================================================================
+
+```
+
+---
+
+### `root@X:~# htop --system-stats`
+
+```text
+  CPU  [||||||||||||||||||||||100.0%]   Tasks: 42, 189 thr; 4 running
+  MEM  [||||||||||||||     4.2G/16.0G]   Uptime: 412 days, 13:37:00
+  SWP  [                   0.0K/4.00G]   Network: RX 14.2 GB/s | TX 89.4 GB/s
+
+```
+
+---
+
+### `root@X:~# ./run_snake_matrix.sh`

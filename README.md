@@ -6,7 +6,7 @@ Independent Minecraft protocol researcher & server stress-tester. Specializing i
 
 ---
 
-### 🛠️ Active Toolset & Research
+### Active Toolset & Research
 
 - **`Aternos-Scanner-v4`** — High-speed asynchronous masscan wrapper targeting dynamic Aternos & Minehut port ranges.
 
@@ -17,7 +17,7 @@ Independent Minecraft protocol researcher & server stress-tester. Specializing i
 
 ---
 
-### 📊 Live Telemetry (Last 30 Days)
+### Live Telemetry (Last 30 Days)
 
 ```text
 [+] Scanned Nodes (Aternos/Free):  14,820

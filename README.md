@@ -2,7 +2,7 @@
 
 > **"If your Aternos server is on default ports without a packet limiter, it's already mine."**
 
-Independent Minecraft protocol researcher & server stress-tester. Specializing in automated discovery of unwhitelisted nodes, cracked session hijacking, and Netty crash payloads (`1.16.5` – `1.21.x`).
+Independent Minecraft protocol researcher & server stress-tester. Specializing in automated discovery of unwhitelisted nodes, cracked session hijacking, and Netty crash payloads (`1.16.5` – `26.x`).
 
 ---
 
